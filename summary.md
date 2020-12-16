@@ -9,7 +9,7 @@ SW 과목이수 및 그와 관련된 다양한 활동들을 사진과 함께 정
 - [EECS201 C프로그래밍과 실습/ 2017년도 2학기/ 이경숙](https://github.com/Hyejin-Choi/C_Coding)
 - [COMP217 자바프로그래밍과 실습/ 2017년도 2학기/ 이경숙](https://github.com/Hyejin-Choi/JAVA_Coding)
 - [COME331 자료구조/ 2018년도 2학기/ 이경숙]
-- [COMP311 논리회로설계/ 2019년도 1학기/ 김찬용]
+- [COMP311 논리회로설계/ 2019년도 1학기/ 김찬용](https://github.com/Hyejin-Choi/Logic)
 - [COMP312 운영체제/ 2019년도 1학기/ 조정훈]
 - [COMP319 알고리즘1/ 2019년도 2학기/ 장길진]
 - [ITEC411 사물컴퓨팅 이론 및 실습/ 2019년도 2학기/강순주]
