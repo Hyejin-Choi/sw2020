@@ -13,13 +13,13 @@ SW 과목이수 및 그와 관련된 다양한 활동들을 사진과 함께 정
 - [COMP312 운영체제/ 2019년도 1학기/ 조정훈]
 - [COMP319 알고리즘1/ 2019년도 2학기/ 장길진](https://github.com/Hyejin-Choi/Algorithm)
 - [ITEC411 사물컴퓨팅 이론 및 실습/ 2019년도 2학기/강순주](https://github.com/Hyejin-Choi/IoT)
-- [ITEC401 종합설계프로젝트1/ 2020년도 1학기/ 정성아]
-- [ITEC401 종합설계프로젝트2/ 2020년도 2학기/ 이인수]
+- [ITEC401 종합설계프로젝트1/ 2020년도 1학기/ 정성아](https://github.com/Hyejin-Choi/Project)
+- [ITEC401 종합설계프로젝트2/ 2020년도 2학기/ 이인수](https://github.com/Hyejin-Choi/Project)
 
 ## 2. 자율형과제
 
 ## 3. 경진대회
-- [2020 한국정보기술학회 대학생논문경진대회]
+- [2020 한국정보기술학회 대학생논문경진대회](https://github.com/Hyejin-Choi/Project)
 
 **경진대회 일시**  2020년 10월 23일
 
